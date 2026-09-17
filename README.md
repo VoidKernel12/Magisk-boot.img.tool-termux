@@ -13,8 +13,14 @@ Simple tool to patch an Android `boot.img` with the latest official Magisk, enti
 
 ```bash
 pkg install git python -y
-git clone https://github.com/YOUR_USERNAME/magisk-boot-patcher.git
-cd magisk-boot-patcher
+```
+```bashb
+git clone https://github.com/VoidKernel12/Magisk-boot.img.tool-termux.git
+```
+```bash
+cd Magisk-boot.img.tool-termux
+```
+```bash
 bash install.sh
 ```
 
